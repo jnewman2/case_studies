@@ -6,3 +6,4 @@ kaggle
 dotenv
 kagglehub
 scikit-learn
+torch

@@ -103,3 +103,6 @@ temp/
 
 #Exclude .kaggle
 .kaggle/
+
+# Exclude data folder
+data/
