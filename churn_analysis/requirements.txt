@@ -4,4 +4,5 @@ seaborn
 matplotlib
 kaggle
 dotenv
-kagglehub[pandas-dataset]
+kagglehub
+scikit-learn
